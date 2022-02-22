@@ -1,0 +1,642 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Abadi%
+\ \BBA {} Blanchet%
+}{%
+Abadi%
+\ \BBA {} Blanchet%
+}{%
+{\protect \APACyear {2005}}%
+}]{%
+abadi2005computer}
+\APACinsertmetastar {%
+abadi2005computer}%
+\begin{APACrefauthors}%
+Abadi, M.%
+\BCBT {}\ \BBA {} Blanchet, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Computer-assisted verification of a protocol for
+  certified email} {Computer-assisted verification of a protocol for certified
+  email}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Science of Computer Programming}{58}{1-2}{3--27}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Abadi%
+\ \BBA {} Glew%
+}{%
+Abadi%
+\ \BBA {} Glew%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+abadi2002certified}
+\APACinsertmetastar {%
+abadi2002certified}%
+\begin{APACrefauthors}%
+Abadi, M.%
+\BCBT {}\ \BBA {} Glew, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Certified email with a light on-line trusted third
+  party: Design and implementation} {Certified email with a light on-line
+  trusted third party: Design and implementation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 11th international conference on
+  World Wide Web} {Proceedings of the 11th international conference on world
+  wide web}\ (\BPGS\ 387--395).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+American Psychiatric~Association%
+\ \protect \BOthers {.}}{%
+American Psychiatric~Association%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1980}}%
+}]{%
+american1980diagnostic}
+\APACinsertmetastar {%
+american1980diagnostic}%
+\begin{APACrefauthors}%
+American Psychiatric~Association, A.%
+\BCBT {}\ \BOthersPeriod {.}
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1980}.
+\newblock
+\APACrefbtitle {Diagnostic and statistical manual of mental disorders}
+  {Diagnostic and statistical manual of mental disorders}\ (\BVOL~3).
+\newblock
+\APACaddressPublisher{}{American Psychiatric Association Washington, DC}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {betterhelp}}{%
+\APACcitebtitle {betterhelp}}{%
+{\protect \APACyear {2021}}%
+}]{%
+betterhelp2021}
+\APACinsertmetastar {%
+betterhelp2021}%
+\APACrefbtitle {betterhelp.} {betterhelp.}
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APAChowpublished {2021 [Online]}.
+\newblock
+\begin{APACrefURL} \url{https://www.betterhelp.com/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Brackney%
+\ \BBA {} Karabenick%
+}{%
+Brackney%
+\ \BBA {} Karabenick%
+}{%
+{\protect \APACyear {1995}}%
+}]{%
+brackney1995psychopathology}
+\APACinsertmetastar {%
+brackney1995psychopathology}%
+\begin{APACrefauthors}%
+Brackney, B\BPBI E.%
+\BCBT {}\ \BBA {} Karabenick, S\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Psychopathology and academic performance: The role of
+  motivation and learning strategies.} {Psychopathology and academic
+  performance: The role of motivation and learning strategies.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Counseling Psychology}{42}{4}{456}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Ebardo%
+\ \BBA {} Celis%
+}{%
+Ebardo%
+\ \BBA {} Celis%
+}{%
+{\protect \APACyear {2019}}%
+}]{%
+ebardo2019barriers}
+\APACinsertmetastar {%
+ebardo2019barriers}%
+\begin{APACrefauthors}%
+Ebardo, R\BPBI A.%
+\BCBT {}\ \BBA {} Celis, N\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Barriers to the adoption of electronic medical records
+  in select Philippine hospitals: A case study approach} {Barriers to the
+  adoption of electronic medical records in select philippine hospitals: A case
+  study approach}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2019 5th International Conference on
+  Computing and Artificial Intelligence} {Proceedings of the 2019 5th
+  international conference on computing and artificial intelligence}\ (\BPGS\
+  123--128).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gibson%
+\ \BBA {} Mitchell%
+}{%
+Gibson%
+\ \BBA {} Mitchell%
+}{%
+{\protect \APACyear {2008}}%
+}]{%
+gibson2008introduction}
+\APACinsertmetastar {%
+gibson2008introduction}%
+\begin{APACrefauthors}%
+Gibson, R.%
+\BCBT {}\ \BBA {} Mitchell, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introduction to guidance and counseling} {Introduction
+  to guidance and counseling}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ed: Upper Saddle River, NJ: Prentice Hall}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Google Protocol RPC Library}}{%
+\APACcitebtitle {Google Protocol RPC Library}}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+protocolrpc}
+\APACinsertmetastar {%
+protocolrpc}%
+\APACrefbtitle {Google Protocol RPC Library.} {Google protocol rpc library.}
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACaddressPublisher{}{Google}.
+\newblock
+\begin{APACrefURL}
+  \url{https://cloud.google.com/appengine/docs/standard/python/tools/protorpc}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Heyden%
+}{%
+Heyden%
+}{%
+{\protect \APACyear {2011}}%
+}]{%
+heyden2011counseling}
+\APACinsertmetastar {%
+heyden2011counseling}%
+\begin{APACrefauthors}%
+Heyden, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2011}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Counseling children and adolescents} {Counseling
+  children and adolescents}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Belmont, CA: Brooks/Cole}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hoven%
+\ \protect \BOthers {.}}{%
+Hoven%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+hoven2008worldwide}
+\APACinsertmetastar {%
+hoven2008worldwide}%
+\begin{APACrefauthors}%
+Hoven, C\BPBI W.%
+, Doan, T.%
+, Musa, G\BPBI J.%
+, Jaliashvili, T.%
+, Duarte, C\BPBI S.%
+, Ovuga, E.%
+\BDBL {}others%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Worldwide child and adolescent mental health begins with
+  awareness: a preliminary assessment in nine countries} {Worldwide child and
+  adolescent mental health begins with awareness: a preliminary assessment in
+  nine countries}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Review of Psychiatry}{20}{3}{261--270}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hunt%
+, Justin%
+, Eisenberg%
+\BCBL {}\ \BBA {} Daniel%
+}{%
+Hunt%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+hunt:2010:mental}
+\APACinsertmetastar {%
+hunt:2010:mental}%
+\begin{APACrefauthors}%
+Hunt%
+, Justin%
+, Eisenberg%
+\BCBL {}\ \BBA {} Daniel.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mental health problems and help-seeking behavior among
+  college students} {Mental health problems and help-seeking behavior among
+  college students}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of adolescent health}{46}{1}{3--10}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Idowu%
+, Adeosun%
+\BCBL {}\ \BBA {} Williams%
+}{%
+Idowu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+idowu2014dependable}
+\APACinsertmetastar {%
+idowu2014dependable}%
+\begin{APACrefauthors}%
+Idowu, A\BPBI P.%
+, Adeosun, O\BPBI O.%
+\BCBL {}\ \BBA {} Williams, K\BPBI O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Dependable online appointment booking system for NHIS
+  outpatient in Nigerian teaching hospitals} {Dependable online appointment
+  booking system for nhis outpatient in nigerian teaching hospitals}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International Journal of Computer Science \&
+  Information Technology}{6}{4}{59}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jorm%
+}{%
+Jorm%
+}{%
+{\protect \APACyear {2000}}%
+}]{%
+jorm2000mental}
+\APACinsertmetastar {%
+jorm2000mental}%
+\begin{APACrefauthors}%
+Jorm, A\BPBI F.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2000}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mental health literacy: Public knowledge and beliefs
+  about mental disorders} {Mental health literacy: Public knowledge and beliefs
+  about mental disorders}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{The British Journal of Psychiatry}{177}{5}{396--401}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kitzrow%
+}{%
+Kitzrow%
+}{%
+{\protect \APACyear {2003}}%
+}]{%
+kitzrow2003mental}
+\APACinsertmetastar {%
+kitzrow2003mental}%
+\begin{APACrefauthors}%
+Kitzrow, M\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2003}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The mental health needs of today's college students:
+  Challenges and recommendations} {The mental health needs of today's college
+  students: Challenges and recommendations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Student Affairs Research and
+  Practice}{41}{1}{167--181}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kolappa%
+, Henderson%
+\BCBL {}\ \BBA {} Kishore%
+}{%
+Kolappa%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+kolappa2013no}
+\APACinsertmetastar {%
+kolappa2013no}%
+\begin{APACrefauthors}%
+Kolappa, K.%
+, Henderson, D\BPBI C.%
+\BCBL {}\ \BBA {} Kishore, S\BPBI P.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{}{}.
+\newblock
+\APACrefbtitle {No physical health without mental health: lessons unlearned?}
+  {No physical health without mental health: lessons unlearned?}
+\newblock
+\APACaddressPublisher{}{SciELO Public Health}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {NowServing}}{%
+\APACcitebtitle {NowServing}}{%
+{\protect \APACyear {2020}}%
+}]{%
+nowserving2020}
+\APACinsertmetastar {%
+nowserving2020}%
+\APACrefbtitle {NowServing.} {Nowserving.}
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+\APAChowpublished {2020 [Online]}.
+\newblock
+\begin{APACrefURL} \url{https://nowserving.ph/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Philippines%
+}{%
+Philippines%
+}{%
+{\protect \APACyear {1982}}%
+}]{%
+ea1982}
+\APACinsertmetastar {%
+ea1982}%
+\begin{APACrefauthors}%
+Philippines.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1982}{}{}.
+\newblock
+\APACrefbtitle {Batas Pambansa Blg. 232.} {Batas pambansa blg. 232.}
+\newblock
+\begin{APACrefURL}
+  \url{https://leb.gov.ph/wp-content/uploads/2018/01/LEBMEMO-Book-Education-Act-of-1982-Final-Draft.pdf}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Pirkle%
+, Dumont%
+\BCBL {}\ \BBA {} Zunzunegui%
+}{%
+Pirkle%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+pirkle2012medical}
+\APACinsertmetastar {%
+pirkle2012medical}%
+\begin{APACrefauthors}%
+Pirkle, C\BPBI M.%
+, Dumont, A.%
+\BCBL {}\ \BBA {} Zunzunegui, M\BHBI V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Medical recordkeeping, essential but overlooked aspect
+  of quality of care in resource-limited settings} {Medical recordkeeping,
+  essential but overlooked aspect of quality of care in resource-limited
+  settings}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{International journal for Quality in Health
+  care}{24}{6}{564--567}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Qiu%
+\ \protect \BOthers {.}}{%
+Qiu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+qiu2020nationwide}
+\APACinsertmetastar {%
+qiu2020nationwide}%
+\begin{APACrefauthors}%
+Qiu, J.%
+, Shen, B.%
+, Zhao, M.%
+, Wang, Z.%
+, Xie, B.%
+\BCBL {}\ \BBA {} Xu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A nationwide survey of psychological distress among
+  Chinese people in the COVID-19 epidemic: implications and policy
+  recommendations} {A nationwide survey of psychological distress among chinese
+  people in the covid-19 epidemic: implications and policy
+  recommendations}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{General psychiatry}{33}{2}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rebello%
+, Marques%
+, Gureje%
+\BCBL {}\ \BBA {} Pike%
+}{%
+Rebello%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+rebello2014innovative}
+\APACinsertmetastar {%
+rebello2014innovative}%
+\begin{APACrefauthors}%
+Rebello, T\BPBI J.%
+, Marques, A.%
+, Gureje, O.%
+\BCBL {}\ \BBA {} Pike, K\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Innovative strategies for closing the mental health
+  treatment gap globally} {Innovative strategies for closing the mental health
+  treatment gap globally}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Current opinion in psychiatry}{27}{4}{308--314}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rickwood%
+, Deane%
+, Wilson%
+\BCBL {}\ \BBA {} Ciarrochi%
+}{%
+Rickwood%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+rickwood2005young}
+\APACinsertmetastar {%
+rickwood2005young}%
+\begin{APACrefauthors}%
+Rickwood, D.%
+, Deane, F\BPBI P.%
+, Wilson, C\BPBI J.%
+\BCBL {}\ \BBA {} Ciarrochi, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Young people’s help-seeking for mental health
+  problems} {Young people’s help-seeking for mental health problems}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Australian e-journal for the Advancement of Mental
+  health}{4}{3}{218--251}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Rigby%
+\ \protect \BOthers {.}}{%
+Rigby%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1998}}%
+}]{%
+rigby1998integrated}
+\APACinsertmetastar {%
+rigby1998integrated}%
+\begin{APACrefauthors}%
+Rigby, M.%
+, Roberts, R.%
+, Williams, J.%
+, Clark, J.%
+, Savill, A.%
+, Lervy, B.%
+\BCBL {}\ \BBA {} Mooney, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Integrated record keeping as an essential aspect of a
+  primary care led health service} {Integrated record keeping as an essential
+  aspect of a primary care led health service}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bmj}{317}{7158}{579--582}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Srivastava%
+, Chatterjee%
+\BCBL {}\ \BBA {} Bhat%
+}{%
+Srivastava%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+srivastava2016mental}
+\APACinsertmetastar {%
+srivastava2016mental}%
+\begin{APACrefauthors}%
+Srivastava, K.%
+, Chatterjee, K.%
+\BCBL {}\ \BBA {} Bhat, P\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mental health awareness: The Indian scenario} {Mental
+  health awareness: The indian scenario}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Industrial psychiatry journal}{25}{2}{131}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zeren%
+\ \protect \BOthers {.}}{%
+Zeren%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+zeren2020effectiveness}
+\APACinsertmetastar {%
+zeren2020effectiveness}%
+\begin{APACrefauthors}%
+Zeren, S\BPBI G.%
+, Erus, S\BPBI M.%
+, Amanvermez, Y.%
+, Genc, A\BPBI B.%
+, Yilmaz, M\BPBI B.%
+\BCBL {}\ \BBA {} Duy, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The Effectiveness of Online Counseling for University
+  Students in Turkey: A Non-Randomized Controlled Trial.} {The effectiveness of
+  online counseling for university students in turkey: A non-randomized
+  controlled trial.}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{European Journal of Educational
+  Research}{9}{2}{825--834}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
